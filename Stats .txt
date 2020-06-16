@@ -12,3 +12,4 @@ Support                   4639
 Oppose                    6307
 
 Support has 68-32 ratio. AUC on BiLSTM gave 74.28. ACC metric gave 63 accuracy.
+Logistic Regression gave 66.8 accuracy.
