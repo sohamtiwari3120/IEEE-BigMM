@@ -1,0 +1,14 @@
+Number of 0s in each column
+
+Text_Only_Informative     1866
+Image_Only_Informative    4561
+Directed_Hate             6552
+Generalized_Hate          6617
+Sarcasm                   6666
+Allegation                6446
+Justification             6583
+Refutation                6668
+Support                   4639
+Oppose                    6307
+
+Support has 68-32 ratio. AUC on BiLSTM gave 74.28. ACC metric gave 63 accuracy.
