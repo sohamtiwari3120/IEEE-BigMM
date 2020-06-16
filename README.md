@@ -1,2 +1,2 @@
 # IEEE-BigMM
-Repo for IEEE Big MM competition
+Repo for IEEE Big MM Grand Challenge 2020.
