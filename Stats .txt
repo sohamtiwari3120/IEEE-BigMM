@@ -15,8 +15,8 @@ Oppose                    6307		92.62
 
 
 
-Feature Name	AUC_BiLSTM	Accuracy_BiLSTM 	ML_Classsifier	
-Sarcasm		98.54
+Feature Name	AUC_BiLSTM	Accuracy_BiLSTM 	ML_Classsifier		BERT
+Sarcasm		98.54								97.72
 
-Support		74.28		63			66.8(LR)
+Support		74.28		63			66.8(LR)		67.18
 
